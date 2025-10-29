@@ -10,3 +10,7 @@ We split the data so that samples acquired on the same day are in the same subse
 <p align="center"><img src="images/perday_split.png" alt="Days distribution" width="50%"/></p>
 
 This reorganization allows one to assess the generalization capabilities of the methods. To this aim, we provide the three separate CSV files, each containing the paths to the samples in the original dataset folder.
+
+#References
+[1] Zhao, Tong, et al. "A comprehensive implementation of road surface classification for vehicle driving assistance: Dataset, models, and deployment." IEEE Transactions on Intelligent Transportation Systems 24.8 (2023): 8361-8370.
+[2] Zhao, Tong, Peilin Guo, and Yintao Wei. "Road friction estimation based on vision for safe autonomous driving." Mechanical Systems and Signal Processing 208 (2024): 111019.
