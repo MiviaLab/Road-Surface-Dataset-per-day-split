@@ -1,4 +1,4 @@
-# Road Surface Dataset (RSCD) per-day splot
+# Road Surface Dataset (RSCD) per-day split
 This repository contains an alternative reorganization of the [RSCD dataset](https://thu-rsxd.com/rscd/) [1, 2], a recent large dataset posing the challenging problem of recognizing the road surface conditions by addressing three different classification tasks.
 
 We reorganized the dataset on a per-acquisition-day basis using the naming information provided by the authors. The number of samples for each day is reported below:
