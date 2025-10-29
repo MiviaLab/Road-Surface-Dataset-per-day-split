@@ -1,5 +1,5 @@
 # Road Surface Dataset (RSCD) alternative usage
-This repository contains an alternative re-organization of the [RSCD dataset](https://thu-rsxd.com/rscd/), a recent large dataset posing the challenging problem of recognizing the road surface conditions by addressing three different classification tasks.
+This repository contains an alternative re-organization of the [RSCD dataset](https://thu-rsxd.com/rscd/) [1, 2], a recent large dataset posing the challenging problem of recognizing the road surface conditions by addressing three different classification tasks.
 
 We reorganized the dataset on a per-acquisition-day basis using the naming information provided by the authors. The number of samples for each day is reported below:
 
@@ -11,6 +11,7 @@ We split the data so that samples acquired on the same day are in the same subse
 
 This reorganization allows one to assess the generalization capabilities of the methods. To this aim, we provide the three separate CSV files, each containing the paths to the samples in the original dataset folder.
 
-#References
+# References
 [1] Zhao, Tong, et al. "A comprehensive implementation of road surface classification for vehicle driving assistance: Dataset, models, and deployment." IEEE Transactions on Intelligent Transportation Systems 24.8 (2023): 8361-8370.
+
 [2] Zhao, Tong, Peilin Guo, and Yintao Wei. "Road friction estimation based on vision for safe autonomous driving." Mechanical Systems and Signal Processing 208 (2024): 111019.
